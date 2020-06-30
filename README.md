@@ -10,12 +10,8 @@
 处理方案：由于Github Action 还不支持删除 Workflows 以及 build结果！只能以下操作！
 
 1）删除你的项目（项目 -> Settings -> Delete this repository），然后重新部署自动签到（只有这样才能清理掉build所有记录）！
-
 2）赶紧修改天翼云盘的密码！
-
 更多内容：[https://51.ruyo.net/16050.html](https://51.ruyo.net/16050.html)
-
-
 
 # Cloud189Checkin
 天翼云盘每日签到一次，抽奖2次  
